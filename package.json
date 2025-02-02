@@ -1,14 +1,10 @@
 {
-  "name": "obs-spotify-nowplaying-backend"}
+  "name": "obs-spotify-nowplaying-backend",
   "version": "1.0.0",
-  "description": "Backend for OBS Spotify Now Playing"
-  "main": "index.js", // Or the entry point of your main function (if different)
-  "scripts": {
-    "start": "node index.js" // Or the command to start your serverless functions
-  },
+  "description": "Backend for OBS Spotify Now Playing",
   "dependencies": {
-    "spotify-web-api-node": "^5.0.2", // Or the latest version
-    "express": "^4.18.2" // If you are using express
-    // ADD MORE POINT
+    "spotify-web-api-node": "^5.0.2", // Or latest version (e.g., "^5.0.2", or "*")
+    "mongodb": "^5.7.0",           // Or latest version (e.g., "^5.7.0", or "*")
+    "express": "^4.18.2"          // If you are using Express, include it here
   }
 }
