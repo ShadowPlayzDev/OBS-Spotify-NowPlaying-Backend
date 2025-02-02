@@ -1,5 +1,5 @@
 {
-  "name": "obs-spotify-nowplaying-bkend",
+  "name": "obs-nowplaying-bknd",
   "version": "1.0.0",
   "description": "Backend for OBS Spotify Now Playing",
   "dependencies": {
