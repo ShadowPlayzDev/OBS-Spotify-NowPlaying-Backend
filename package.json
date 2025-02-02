@@ -1,7 +1,7 @@
 {
   "name": "obs-spotify-nowplaying-backend",
   "version": "1.0.0",
-  "description": "Backend for OBS Spotify Now Playing",
+  "description": "Backend for OBS Spotify Now Playing"
   "main": "index.js", // Or the entry point of your main function (if different)
   "scripts": {
     "start": "node index.js" // Or the command to start your serverless functions
